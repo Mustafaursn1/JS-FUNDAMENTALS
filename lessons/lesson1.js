@@ -18,5 +18,13 @@ console.log(age)
 
 //constants 
 const occupation ="Engineer"
-occupation="driver"
+occupation
 console.log(occupation)
+
+//data types
+var middleName="David"  //string  and 'David'
+var ageOfBrother=25  //number  if i write '25' -->stirng 
+var isHeMarried=false //boolean true or false
+var yearsInMarriage=null// null data typ ecpected result not having 
+var numberOfCars=undefined // undefined  
+

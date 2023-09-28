@@ -11,4 +11,8 @@ var ageIsMoreThanEighteen =true
 var isUSCitizen =true
 
 var eligiblityForDriverslicense= ageIsMoreThanEighteen && isUSCitizen
-console.log('This customer is eligible for DL: '+ eligiblityForDriverslicense)
+console.log('This customer is eligible for DL: '+ eligiblityForDriverslicense) //This customer is eligible for DL: true
+
+//Logical "NOT"
+console.log(!true)//false
+console.log(6 !== 10 )  //true 
